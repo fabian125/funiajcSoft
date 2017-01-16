@@ -1,3 +1,1 @@
-“Realizando la guía de Git
-en la Uniajc.
-Para mejorar los conceptos de GIT”
+Se Realizan 2 Branch, De la clase Index ------> Luis Fabian Castro Mina
